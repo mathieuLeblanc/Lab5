@@ -11,7 +11,7 @@ using namespace WindowRender;
 
 int main( int argc, char* args[] )
 {
-	// NE COMMENCEZ PAS PAR LE MAIN. COMMENCEZ PAR LES TESTS !
+	 //NE COMMENCEZ PAS PAR LE MAIN. COMMENCEZ PAR LES TESTS !
 
 	//try
 	//{

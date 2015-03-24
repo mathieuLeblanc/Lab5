@@ -3,9 +3,12 @@
 
 namespace ShapeLibrary
 {
-	class Polygon
+	class Polygon : public Shape
 	{
 	public:
+		Polygon(IWindowAPI &_window);
+		void add(const Point &_point);
+		void draw();
 
 
 	};

@@ -7,7 +7,7 @@ namespace ShapeLibrary
 	public:
 
 		Point(const double _x, const double _y);
-
+		Point();
 		double x;
 		double y;
 
